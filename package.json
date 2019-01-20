@@ -1,7 +1,7 @@
 {
-  "name": "marius_tpe",
+  "name": "marius_led",
   "version": "0.1.5",
-  "description": "For my TPE",
+  "description": "light a led connected to your rasberrypi",
   "dependencies": {
     "onoff": "^3.0.0"
   },
