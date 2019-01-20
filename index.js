@@ -1,10 +1,10 @@
 module.exports = function(sails) {
-  var execute = require("./lib/execute.js");
+  var send = require("./lib/send.js");
   var setup = require("./lib/configure.js");
-  var init = require("./lib/init.js")
+  //var init = require("./lib/init.js")
   return {
-    exec: execute,
-    setup: setup,
-    init: init
+    send: send,
+    setup: setup
+    //init: init
   };
 };

@@ -1,9 +1,9 @@
 {
   "name": "marius_tpe",
-  "version": "0.1",
+  "version": "0.1.5",
   "description": "For my TPE",
   "dependencies": {
-
+    "onoff": "^3.0.0"
   },
   "author": "Marius DAVID",
   "license": "MIT"
