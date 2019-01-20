@@ -1,0 +1,10 @@
+{
+  "name": "marius-tpe",
+  "version": "0.1",
+  "description": "For my TPE",
+  "dependencies": {
+
+  },
+  "author": "Marius DAVID",
+  "license": "MIT"
+}
