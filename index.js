@@ -1,5 +1,7 @@
 module.exports = function(sails) {
-  return {
+  var execute = require("./lib/execute.js");
 
+  return {
+    exec: execute;
   };
 };
